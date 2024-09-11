@@ -1,0 +1,2 @@
+config SHIELD_HSVMOD
+    def_bool $(shields_list_contains, HSVmod)

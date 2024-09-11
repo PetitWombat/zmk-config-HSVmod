@@ -1,0 +1,6 @@
+if SHIELD_HSVMOD
+            
+config ZMK_KEYBOARD_NAME
+    default "HSVmod"
+
+endif
